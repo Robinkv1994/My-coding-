@@ -1,0 +1,10 @@
+{
+  "name": "FirstProject",
+  "displayName": "FirstProject",
+  "expo": {
+    "slug": "FirstProject",
+    "name": "FirstProject",
+    "sdkVersion": "45.0.0",
+    "entryPoint": ".vscode\\exponentIndex.js"
+  }
+}
